@@ -1,4 +1,7 @@
-Hello World
+
+#Lets try to commit this to git
+
+echo "Hello World from Easy Arts"
 Hello World
 Hello World
 Hello World
